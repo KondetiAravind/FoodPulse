@@ -1213,7 +1213,7 @@ A/B Testing
         ×
 Software Engineering
 ```
-
+# ⭐ If you found this project useful, consider giving it a star!
 ---
 
 <p align="center">
@@ -1224,6 +1224,3 @@ Software Engineering
   © 2026 Kondeti Aravind
 </p>
 ```
-
-
-[1]: https://github.com/KondetiAravind/FoodPulse "GitHub - KondetiAravind/FoodPulse: AI-Powered Restaurant Recommendation & Experimentation · GitHub"
